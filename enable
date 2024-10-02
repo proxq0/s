@@ -5,4 +5,4 @@ const extentions = ["haldlgldplgnggkjaafhelgiaglafanh", "ihjgnoifhnilgbjicdpingf
 for( e in extentions ){
     chrome.management.setEnabled(extentions[e], true,)
 }
-alert(`GoGuardian has been enabled. Enjoy! Made by Halycon#2895 on discord.`)
+alert(`GoGuardian has been enabled. Enjoy! Made by vvvchaos on discord.`)
